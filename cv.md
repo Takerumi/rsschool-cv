@@ -25,9 +25,10 @@ With my dedication to learning and enthusiasm for web development as a beginner 
 
 ## Skills:
 * HTML, CSS, JavaScript
+* Sass, PostCSS
 * adaptive layout, BEM naming, perfect pixel
 * GIT
-* GitHub, GitLab, Gods, 
+* GitHub, GitLab, Gods
 
 ***
 
